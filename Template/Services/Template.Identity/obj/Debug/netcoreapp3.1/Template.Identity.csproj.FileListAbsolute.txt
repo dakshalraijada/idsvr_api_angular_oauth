@@ -86,8 +86,6 @@ C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Temp
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\obj\Debug\netcoreapp3.1\Template.Identity.csproj.CoreCompileInputs.cache
-C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\obj\Debug\netcoreapp3.1\Template.Identity.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\obj\Debug\netcoreapp3.1\Template.Identity.csproj.CopyComplete
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\obj\Debug\netcoreapp3.1\Template.Identity.dll
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\obj\Debug\netcoreapp3.1\Template.Identity.pdb
@@ -133,3 +131,15 @@ C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Temp
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Template.Framework.pdb
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Template.Core.pdb
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Template.Data.pdb
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Template.Identity.StaticWebAssets.xml
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\obj\Debug\netcoreapp3.1\Template.Identity.csproj.CoreCompileInputs.cache
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\obj\Debug\netcoreapp3.1\Template.Identity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Services\Template.Identity\obj\Debug\netcoreapp3.1\Template.Identity.MvcApplicationPartsAssemblyInfo.cache
