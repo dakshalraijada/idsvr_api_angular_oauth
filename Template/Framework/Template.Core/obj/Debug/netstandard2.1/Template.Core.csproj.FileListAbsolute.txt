@@ -1,0 +1,9 @@
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\bin\Debug\netstandard2.1\Template.Core.deps.json
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\bin\Debug\netstandard2.1\Template.Core.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\obj\Debug\netstandard2.1\Template.Core.csprojAssemblyReference.cache
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\obj\Debug\netstandard2.1\Template.Core.AssemblyInfoInputs.cache
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\obj\Debug\netstandard2.1\Template.Core.AssemblyInfo.cs
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\bin\Debug\netstandard2.1\Template.Core.pdb
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\obj\Debug\netstandard2.1\Template.Core.csproj.CoreCompileInputs.cache
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\obj\Debug\netstandard2.1\Template.Core.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Core\obj\Debug\netstandard2.1\Template.Core.pdb

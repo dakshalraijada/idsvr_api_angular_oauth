@@ -1,0 +1,14 @@
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\bin\Debug\netstandard2.1\Template.Framework.deps.json
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\bin\Debug\netstandard2.1\Template.Framework.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\bin\Debug\netstandard2.1\Template.Framework.pdb
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\bin\Debug\netstandard2.1\Template.Core.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\bin\Debug\netstandard2.1\Template.Data.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\bin\Debug\netstandard2.1\Template.Data.pdb
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\bin\Debug\netstandard2.1\Template.Core.pdb
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\obj\Debug\netstandard2.1\Template.Framework.csprojAssemblyReference.cache
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\obj\Debug\netstandard2.1\Template.Framework.csproj.CoreCompileInputs.cache
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\obj\Debug\netstandard2.1\Template.Framework.AssemblyInfoInputs.cache
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\obj\Debug\netstandard2.1\Template.Framework.AssemblyInfo.cs
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\obj\Debug\netstandard2.1\Template.Framework.csproj.CopyComplete
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\obj\Debug\netstandard2.1\Template.Framework.dll
+C:\Users\DakshalRaijada\source\repos\dakshalraijada\idsvr_api_angular_oauth\Template\Framework\Template.Framework\obj\Debug\netstandard2.1\Template.Framework.pdb
